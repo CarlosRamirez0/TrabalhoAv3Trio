@@ -1,7 +1,7 @@
 # Trabalho Avaliativo - Estrutura de Dados 📚
 
 Este repositório contém as implementações referentes ao trabalho avaliativo da disciplina de **Estrutura de Dados** do curso de **Ciência da Computação**.
-
+turma 42CMP01M3B
 ## 👥 Componentes do Grupo
 - Carlos Ramirez Copque da Silva
 - Kaique Souza Costa
